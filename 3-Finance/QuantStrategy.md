@@ -1,0 +1,42 @@
+- keywords:#Quant, #Python, #📊Projects,#Strategy
+- Goal: 实现一个策略，FMZ挂一个，测试
+- TotalTime：5-6H #videos
+- links： {{[[youtube]]: https://www.youtube.com/watch?v=smATfFtQ0do&list=PLEq0N7I6GxIbjilpNiyZHgZ5a5gT9FmKs&index=1}}
+- 课程大纲
+    - 
+- 从API获取信息
+    - bitmex 交易所
+        - https://testnet.bitmex.com/app/trade/XBTUSD
+        - shi.wenjun@twinkle-trade.com
+    - fmz based on botvs 托管中心
+        - https://www.fmz.com/
+        - crazyfrank2000
+        - FMZ(发明者)量化平台(原BotVS)是国内最专业的量化社区，在这里你可以学习、编写、分享、买卖量化策略，在线回测和使用模拟盘模拟交易，运行、公开、围观实盘机器人。支持传统的商品期货与易盛外盘期货, 也支持几乎所有的常用的数字货币交易所。
+    - CCXT
+        - 函数调用
+        - 
+    - #code with python
+        - 获取价格，深度，账户信息
+        - 实现买卖功能
+        - 使用fmz 做回测
+        - 
+- mid_class
+    - 初始化数据
+        - 首次获取价格，accoutn
+    - 获取数据
+        - getaccount
+        - get tick 市价格信息
+        - 深度信息
+        - K线信息 ohlc
+    - 挂单买卖
+        - create order
+        - 取消挂单
+        - 刷新信息，委托是否ok
+        - 
+- 利润与来源
+- 均仓策略
+    - 币和钱，水多了加面，面多了加水
+    - 
+- 优化策略
+- 做市策略
+- 盘口吃利润做市策略及 策略合并思路 
