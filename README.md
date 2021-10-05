@@ -1,9 +1,9 @@
 # 笔记框架
 
+Test 1
 
-
-0. [学习方法，方法论](0.How to learn everything.md)
-1. [量化金融](1.CQF Calendar.md)
+0. [学习方法，方法论](0.How-to-learn-everything.md)
+1. [量化金融](1.CQF-Calendar.md)
 2. 泛投资类
 3. 数学类
 4. 应用软件类
@@ -12,5 +12,5 @@
 7. 宗教等社会科学
 8. 读书笔记
 9. 健身
-  10.公众号文章
+10. 公众号文章
 
