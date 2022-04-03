@@ -6,7 +6,7 @@ BLM（Business leadership Model）即业务领先模型介绍
 
 下图就是BLM战略管理的理论框架，包括了8个主要模块：
 
-![test.drawio](/Users/frankmac/Downloads/test.drawio.png)
+![test.drawio](images/blm.png)
 
 第一，战略意图是战略思考的起点，通常用SMART工具帮助分析，设立具体的战略目标。好的战略，必须定义清晰，做什么不做什么，为什么是这样选择。必须清楚明白，这样才能保持战略定力，当每次遇到疑问或者不确定性事件的时候，这个就是最底层的逻辑，可以帮助你快速回顾自己的初心。这是战略规划的第一步。
 
